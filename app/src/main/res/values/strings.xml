@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubastasPochas</string>
+    <string-array name="Estat">
+        <item>Perfectament conservat</item>
+        <item>Amb alguns desperfectes</item>
+        <item>Amb bastants desperfectes</item>
+        <item>Per reparar</item>
+        <item>Pocho</item>
+    </string-array>
+
+</resources>
